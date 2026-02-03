@@ -1,6 +1,6 @@
 # StockAIAgent
 
-Minimal 1-hour MVP to view your Zerodha (Kite Connect) holdings locally. Frontend and backend live in one Next.js app.
+MVP to view your Zerodha (Kite Connect) holdings locally. Frontend and backend live in one Next.js app.
 
 ## Features
 - Zerodha OAuth flow via Kite Connect
